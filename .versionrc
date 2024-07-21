@@ -1,0 +1,15 @@
+{
+  "types": [
+    {"type": "feat", "section": "✨ Features: 새로운 기능을 도입하는 변경 사항"},
+    {"type": "fix", "section": "\uD83D\uDC1B Bug Fixes: 버그를 패치하는 변경 사항"},
+    {"type": "docs", "section": "\uD83D\uDCDA Documentation: 문서에 영향을 주는 변경 사항"},
+    {"type": "style", "section": "\uD83D\uDC8E Styles: 공백, 서식 지정, 세미콜론 누락과 같이 코드 논리에 영향을 주지 않는 변경 사항"},
+    {"type": "refactor", "section": "\uD83D\uDCE6 Refactoring: 버그를 수정하거나 기능을 추가하지 않는 변경 사항"},
+    {"type": "perf", "section": "\uD83D\uDE80 Performance: 성능을 향상시키는 변경 사항"},
+    {"type": "test", "section": "\uD83D\uDEA8 Tests: 누락된 테스트를 추가하거나 기존 테스트를 수정하는 변경 사항"},
+    {"type": "build", "section": "\uD83D\uDEE0 Builds: 빌드 도구, ci 파이프라인, 종속성, 프로젝트 버전 등과 같은 빌드 구성 요소에 영향을 주는 변경 사항"},
+    {"type": "ci", "section": "⚙️ Continuous Integrations: CI 구성 파일 및 스크립트 변경 (Travis, Circle, BrowserStack, SauceLabs)"},
+    {"type": "chore", "section": "♻️ Chores: 사용자에게 표시되지 않는 변경 사항"},
+    {"type": "revert", "section": "\uD83D\uDDD1 Reverts: 이전 커밋을 되돌리는 변경 사항"}
+  ]
+}
